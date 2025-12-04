@@ -1,0 +1,5 @@
+flask
+pillow
+scikit-image
+requests
+flask-cors
